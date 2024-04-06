@@ -3,9 +3,6 @@ This repository contains final code for Crypto Screener Application in ReactJS. 
 For Demo and Final Code checkout following link👇: <br />
 [Crypto Screener Application in ReactJS](https://devdreaming.com/videos/build-crypto-screener-app-with-react-tailwind-css) <br />
 
-
-<p><a href="https://www.buymeacoffee.com/CodeBucks" target="_blank"> <img  src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="210" alt="CodeBucks" ></img></a></p><br />
-
 ### Images of The Crypto Screener Website:
 
 ![Crypto](https://github.com/codebucks27/CryptoBucks-A-crypto-screener-application/blob/main/Website-Images/Crypto.png)
